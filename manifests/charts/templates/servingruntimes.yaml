@@ -27,7 +27,7 @@ spec:
       value: dummy-model-fixme
     - name: MLSERVER_HOST
       value: 127.0.0.1
-      image: docker.limix.com/seldonio/mlserver:0.5.3
+    image: docker.limix.com/seldonio/mlserver:0.5.3
     name: mlserver
     resources:
       limits:
